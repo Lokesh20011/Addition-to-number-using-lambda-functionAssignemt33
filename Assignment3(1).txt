@@ -1,0 +1,3 @@
+r = lambda a : a + 15
+b=int(input())
+print(r(b))
